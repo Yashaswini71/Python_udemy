@@ -1,0 +1,11 @@
+yashu = 123
+message = "i am volleyball player"
+n = 12
+p1 = 3.14
+print(p1)
+
+#example2:
+name = "yashu"
+print(name)
+it can asloprint 2 print name when we give the other variables also:
+variable can contain name and numbers.
